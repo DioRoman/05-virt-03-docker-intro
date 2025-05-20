@@ -15,6 +15,8 @@ https://hub.docker.com/repositories/dioroman
 
 ![Снимок экрана 2025-05-15 193559](https://github.com/user-attachments/assets/943e2285-7429-4107-a2a3-c34145e718a8)
 
+Дополнительные файлы в репозитории.
+
 Задача 4
 
 ![photo_2025-05-15_00-18-36](https://github.com/user-attachments/assets/3283c14c-0897-47e2-ae43-32f12896149d)
@@ -26,3 +28,6 @@ https://hub.docker.com/repositories/dioroman
 ![Снимок экрана 2025-05-15 194822](https://github.com/user-attachments/assets/583ad24c-0d96-45c6-bdbb-f9fad45fb65a)
 
 ![Снимок экрана 2025-05-15 195009](https://github.com/user-attachments/assets/925d8f62-0593-42b3-893c-0e28f78b5b3c)
+
+Дополнительные файлы в репозитории.
+
